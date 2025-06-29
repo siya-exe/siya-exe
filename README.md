@@ -1,38 +1,60 @@
-### Final readme file: 
+<!-- GitHub Profile README -->
 
-# Hi there, I'm Siya! 👋🏽
+<h1 align="center">Hi there 👋, I'm Siyabonga</h1>
 
-https://www.canva.com/design/DAGrvQKHWaY/awf8BWtpAD8KGW-LrL1tXA/view?utm_content=DAGrvQKHWaY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61c327fa1a
+<p align="center">
+  <i>A passionate backend development learner at <b>ALX</b> with a love for technology, systems, and clean architecture.</i>
+</p>
 
+---
 
-## About Me 🚀
+<h2>🚀 About Me</h2>
 
-I'm a Junior Software Developer who is passionate about technology systems. I enjoy community building, content creation, and learning deeply about Artificial Intelligence. 
+<ul>
+  <li>🎯 I started learning software engineering because I’m fascinated by how technology shapes our world.</li>
+  <li>🧠 Currently diving deep into backend technologies, system design, and infrastructure as part of the ALX program.</li>
+  <li>🌱 My goal is to grow in the tech space as a beginner by building impactful and scalable backend solutions.</li>
+  <li>🛠️ I'm especially excited to work on [insert types of projects: e.g., REST APIs, cloud-native applications, microservices].</li>
+</ul>
 
-- 🌱 Currently learning: AI & Machine Learning 
-- 🔭 Working on: FNB App Academy 
-- ⚡ Fun fact: I'm 19 and I love food  
+---
 
-## My Skills 🧠
+<h2>🛠️ Tech Stack</h2>
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-## Featured Projects 💻 
+---
 
-### [GitHub Certification Guide](https://github.com/LadyKerr/github-certification-guide) 📚
+<h2>📈 GitHub Stats</h2>
 
-Demonstrate your proficiency at GitHub by becoming certified. This guide will help you prepare for the exams and provide you with resources to help you succeed.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![gh-certs (1)](https://github.com/user-attachments/assets/3f3f02a9-173e-43c3-9c06-341276047633)
+---
 
+<h2>📫 Let’s Connect</h2>
 
-## Get in Touch 📬
+<p>
+  - 💼 LinkedIn: <a href="https://linkedin.com/in/YOUR_LINK">linkedin.com/in/YOUR_LINK</a><br/>
+  - 🌍 Portfolio: <a href="https://YOUR_PORTFOLIO.com">YOUR_PORTFOLIO.com</a><br/>
+  - 📧 Email: <a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a>
+</p>
 
-- [Personal Blog](https://siyajpg-portfolio.netlify.app/) 
-- [LinkedIn](https://www.linkedin.com/in/siyabonga-ngwenya-1902642a2/) 
+---
 
+<h2>🧠 Projects That Inspire Me</h2>
+
+<ul>
+  <li>🌐 A collaborative API-first application to manage digital portfolios for junior developers.</li>
+  <li>📦 A containerized microservice for real-time data processing with Python and RabbitMQ.</li>
+  <li>🔐 A beginner-friendly authentication system with JWT and OAuth integrations.</li>
+</ul>
+
+<p align="center"><i>“Code is like poetry—it’s meant to be elegant, readable, and deeply impactful.”</i></p>
