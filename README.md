@@ -11,10 +11,10 @@
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>🎯 I started learning software engineering because I’m fascinated by how technology shapes our world.</li>
+  <li>🎯 I started learning software engineering because I have always been fascinated by how technology shapes our world since I was 10.</li>
   <li>🧠 Currently diving deep into backend technologies, system design, and infrastructure as part of the ALX program.</li>
   <li>🌱 My goal is to grow in the tech space as a beginner by building impactful and scalable backend solutions.</li>
-  <li>🛠️ I'm especially excited to work on [insert types of projects: e.g., REST APIs, cloud-native applications, microservices].</li>
+  <li>🛠️ I'm especially excited to work on FNB App Academy, as well as my ALX ProDev course.</li>
 </ul>
 
 ---
@@ -34,7 +34,7 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siya-exe&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
