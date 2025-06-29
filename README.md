@@ -42,9 +42,9 @@
 <h2>📫 Let’s Connect</h2>
 
 <p>
-  - 💼 LinkedIn: <a href="https://linkedin.com/in/YOUR_LINK">linkedin.com/in/YOUR_LINK</a><br/>
-  - 🌍 Portfolio: <a href="https://YOUR_PORTFOLIO.com">YOUR_PORTFOLIO.com</a><br/>
-  - 📧 Email: <a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a>
+  - 💼 LinkedIn: <a href="https://www.linkedin.com/in/siyabonga-ngwenya-1902642a2/">linkedin.com/in/YOUR_LINK</a><br/>
+  - 🌍 Portfolio: <a href="https://siyajpg-portfolio.netlify.app/">YOUR_PORTFOLIO.com</a><br/>
+  - 📧 Email: <a href="mailto:siyangwenya13@gmail.com">YOUR_EMAIL@example.com</a>
 </p>
 
 ---
