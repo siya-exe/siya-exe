@@ -2,7 +2,7 @@
 
 # Hi there, I'm Siya! 👋🏽
 
-[![@itsthatladydev](https://github.com/user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5)](https://www.canva.com/design/DAGrvQKHWaY/awf8BWtpAD8KGW-LrL1tXA/view?utm_content=DAGrvQKHWaY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61c327fa1a)
+https://www.canva.com/design/DAGrvQKHWaY/awf8BWtpAD8KGW-LrL1tXA/view?utm_content=DAGrvQKHWaY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h61c327fa1a
 
 
 ## About Me 🚀
