@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there 👋, I'm Siyabonga</h1>
+<h1 align="center">Hi there 👋, I'm Siya</h1>
 
 <p align="center">
   <i>A passionate backend development learner at <b>ALX</b> with a love for technology, systems, and clean architecture.</i>
