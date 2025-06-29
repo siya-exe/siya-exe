@@ -7,11 +7,11 @@ https://www.canva.com/design/DAGrvQKHWaY/awf8BWtpAD8KGW-LrL1tXA/view?utm_content
 
 ## About Me 🚀
 
-I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy. 
+I'm a Junior Software Developer who is passionate about technology systems. I enjoy community building, content creation, and learning deeply about Artificial Intelligence. 
 
 - 🌱 Currently learning: AI & Machine Learning 
-- 🔭 Working on: CopyPasta Chrome Extension to make it work across browsers 
-- ⚡ Fun fact: I'm Jamaican and I love food 💃🏽 
+- 🔭 Working on: FNB App Academy 
+- ⚡ Fun fact: I'm 19 and I love food  
 
 ## My Skills 🧠
 
@@ -33,6 +33,6 @@ Demonstrate your proficiency at GitHub by becoming certified. This guide will he
 
 ## Get in Touch 📬
 
-- [Personal Blog](https://itsthatlady.dev/ ) 
-- [LinkedIn](https://twitter.com/itsthatladydev) 
-- [Twitter](https://www.linkedin.com/in/kedashakerr/) 
+- [Personal Blog](https://siyajpg-portfolio.netlify.app/) 
+- [LinkedIn](https://www.linkedin.com/in/siyabonga-ngwenya-1902642a2/) 
+
