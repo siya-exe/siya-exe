@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Siya</h1>
 
 <p align="center">
-  <i>A passionate backend development learner at <b>ALX</b> with a love for technology, systems, and clean architecture.</i>
+  <i>A passionate backend development learner with a love for technology, systems, and clean architecture.</i>
 </p>
 
 ---
